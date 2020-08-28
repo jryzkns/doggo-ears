@@ -1,6 +1,6 @@
 # doggo-ears
 
-A naive program that takes listens to you and determines your mood. The model is trained on the [`RAVDESS`](https://smartlaboratory.org/ravdess/) and [`TESS`](https://tspace.library.utoronto.ca/handle/1807/24487) datasets and features a many-to-one LSTM classifier.
+A naive program that listens to you and determines your mood when you speak to it. The model is trained on the [`RAVDESS`](https://smartlaboratory.org/ravdess/) and [`TESS`](https://tspace.library.utoronto.ca/handle/1807/24487) datasets and features a many-to-one LSTM classifier.
 
 ## Prerequisites
 
